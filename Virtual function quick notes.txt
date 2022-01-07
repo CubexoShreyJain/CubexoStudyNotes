@@ -1,0 +1,5 @@
+-virtualenv <name>
+-.\<folderName>\Scripts\activate
+-deactive
+-pip freeze > requirements.txt #creates requirements.txt file
+-pip install -r .\requiremts.txt # installs all libraries in requirements folder
