@@ -76,6 +76,7 @@ def delete_file(filename):
     os.remove(filename)
     print("File " + filename + " deleted successfully.")
 
+
 if __name__== '__main__':
     read_file('example.txt')
     create_file('example.txt')
@@ -88,4 +89,3 @@ if __name__== '__main__':
     read_file('my_file.txt')
     delete_file('my_file.txt')
     read_file('my_file.txt')
-    
