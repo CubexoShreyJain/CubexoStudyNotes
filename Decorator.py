@@ -21,3 +21,9 @@ def test_func2():
     print("Hello Shrey")
 
 test_func2()                                # A decorator only takes a function as an argument but can convert function below to any dataType
+# Net se padh, mast mast milega
+### We can use as many decorators on a single function, as we want. it would run in a BOTTOM UP sequence
+# @dec1  // Then this on the results
+# @dec2 // First this
+# def test:
+#     pass

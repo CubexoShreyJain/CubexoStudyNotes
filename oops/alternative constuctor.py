@@ -21,7 +21,7 @@ class Employee():                    #Yaha pe apan koi parameters set nai krte f
         # l = string.split("/")
         # return cls(l[0],l[1])
         
-        return cls(*string.split("/"))    ###Yemst cheez h yaad rakhna uper ki 2 line km kr di issne
+        return cls(*string.split("/"))    ###Ye mst cheez h yaad rakhna uper ki 2 line km kr di issne
         
     
 rohan = Employee("Rohan",1000)

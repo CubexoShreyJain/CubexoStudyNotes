@@ -7,7 +7,7 @@ F-string - to give variables on string - baaki net se dekh lena, mst h
     ex - print(f"asdfasd {variable1} adsf {variable2} adsf")
          print("asd {} asdf {}".format(variable1, variable2))
  
-# a = function()     -     alls the function for value
+# a = function()     -     calls the function for value
 # a = function       -     assigns the function to new variable. eg: a() calls the function
 # seedhi baat function (without paranthesis) gives the function address which could be assigned to new variable or could be changed too. see decorator.
 
